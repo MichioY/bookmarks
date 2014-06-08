@@ -20,7 +20,7 @@ Write the code. Change the world.
 * [sososwift.com](http://www.sososwift.com/)
 * [learnswift.io](http://www.learnswift.io/)
 * [SwiftV课堂](http://www.swiftv.cn/school)
-* [极客学院-Apple Swift语言基础教程](http://www.jikexueyuan.com/course/92.html)
+* [Apple Swift语言基础教程](http://www.jikexueyuan.com/course/92.html) by 极客学院
 
 
 ### 开放社区

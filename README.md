@@ -23,15 +23,15 @@ Write the code. Change the world.
 * [learnswift.io](http://www.learnswift.io/)
 * [We ❤ Swift](http://www.weheartswift.com/)
 * [Developing iOS Apps Using Swift Tutorial](http://jamesonquave.com/blog/developing-ios-apps-using-swift-tutorial/)
-* [swift-programming](https://medium.com/swift-programming/) In [Medium](https://medium.com/)
+* [swift-programming](https://medium.com/swift-programming/) On [Medium](https://medium.com/)
 * [SwiftV课堂](http://www.swiftv.cn/school)
 * [Apple Swift语言基础教程](http://www.jikexueyuan.com/course/92.html) By 极客学院
 
 
 ### 开放社区
 
-* [swift-language](http://stackoverflow.com/questions/tagged/swift-language) In [StackOverflow](http://stackoverflow.com/)
-* [#swift](http://segmentfault.com/t/swift) In [segmentfault](http://segmentfault.com)
+* [swift-language](http://stackoverflow.com/questions/tagged/swift-language) On [StackOverflow](http://stackoverflow.com/)
+* [#swift](http://segmentfault.com/t/swift) On [segmentfault](http://segmentfault.com)
 * [swift-china.org](http://swift-china.org/)
 * [swift.sh](http://swift.sh/)
 * [Let's Swift](http://letsswift.com/)

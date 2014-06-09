@@ -25,6 +25,20 @@ Write the code. Change the world.
 
 * [swift-language](http://stackoverflow.com/questions/tagged/swift-language) On [StackOverflow](http://stackoverflow.com/)
 
+
+### SNS
+
+#### Twitter
+
+* [@SwiftDevs](http://twitter.com/SwiftDevs)
+* [@SwiftLang](https://twitter.com/SwiftLang)
+* [@TheSwiftLang](https://twitter.com/TheSwiftLang)
+
+#### YouTube
+
+* [SwiftDevs](https://www.youtube.com/user/SwiftDevs)
+
+
 ### Other languages
 
 * [ZH-CN](/README.md)

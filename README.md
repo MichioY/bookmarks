@@ -39,6 +39,19 @@ Write the code. Change the world.
 * [Swifist社区](http://swiftist.org)
 
 
+### SNS
+
+#### Twitter
+
+* [@SwiftDevs](http://twitter.com/SwiftDevs)
+* [@SwiftLang](https://twitter.com/SwiftLang)
+* [@TheSwiftLang](https://twitter.com/TheSwiftLang)
+
+#### YouTube
+
+* [SwiftDevs](https://www.youtube.com/user/SwiftDevs)
+
+
 ### 观点
 
 * [如何评价 Swift 语言？](http://www.zhihu.com/question/24002984)

@@ -14,7 +14,7 @@ Write the code. Change the world.
 * [Apple 官方 Swift 教程](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/) by [numbbbbb](https://github.com/numbbbbb)
 
 
-### 教程学习、示例、文章
+### 文章、教程、示例
 
 * [learnswift.tips](http://learnswift.tips/)
 * [sososwift.com](http://www.sososwift.com/)

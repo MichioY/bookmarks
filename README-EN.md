@@ -10,7 +10,7 @@ Write the code. Change the world.
 * [The Swift Programming Language](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
 
 
-### Learn, Tutorials, Samples, Posts
+### Posts, Tutorials, Samples
 
 * [learnswift.tips](http://learnswift.tips/)
 * [sososwift.com](http://www.sososwift.com/)

@@ -7,6 +7,7 @@ Write the code. Change the world.
 
 * [Introducing Swift](https://developer.apple.com/swift/)
 * [Welcome to Swift](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/LandingPage/index.html)
+* [Swift Cheat Sheet](https://github.com/grant/swift-cheat-sheet) By [grant](https://github.com/grant)
 * [The Swift Programming Language](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
 * [Learn Swift in Y minutes](http://learnxinyminutes.com/docs/zh-cn/swift-cn/)
 * [Swift语言介绍](http://swiftlang.com.cn/)

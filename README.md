@@ -36,7 +36,7 @@ Write the code. Change the world.
 * [swift.sh](http://swift.sh/)
 * [Let's Swift](http://letsswift.com/)
 * [中国.雨燕](http://www.chinaswift.me/forum)
-* [Swifist社区](http://swiftist.org)
+* [Swiftist社区](http://swiftist.org)
 
 
 ### SNS

@@ -24,6 +24,7 @@ Write the code. Change the world.
 ### Open Clubs
 
 * [swift-language](http://stackoverflow.com/questions/tagged/swift-language) On [StackOverflow](http://stackoverflow.com/)
+* [Swiftist](http://swiftist.org)
 
 ### Other languages
 

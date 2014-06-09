@@ -19,6 +19,7 @@ Write the code. Change the world.
 * [learnswift.tips](http://learnswift.tips/)
 * [sososwift.com](http://www.sososwift.com/)
 * [learnswift.io](http://www.learnswift.io/)
+* [We ❤ Swift](http://www.weheartswift.com/)
 * [Developing iOS Apps Using Swift Tutorial](http://jamesonquave.com/blog/developing-ios-apps-using-swift-tutorial/)
 * [swift-programming](https://medium.com/swift-programming/) in [Medium](https://medium.com/)
 * [SwiftV课堂](http://www.swiftv.cn/school)

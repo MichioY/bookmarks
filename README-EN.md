@@ -17,12 +17,12 @@ Write the code. Change the world.
 * [learnswift.io](http://www.learnswift.io/)
 * [We ❤ Swift](http://www.weheartswift.com/)
 * [Developing iOS Apps Using Swift Tutorial](http://jamesonquave.com/blog/developing-ios-apps-using-swift-tutorial/)
-* [swift-programming](https://medium.com/swift-programming/) in [Medium](https://medium.com/)
+* [swift-programming](https://medium.com/swift-programming/) In [Medium](https://medium.com/)
 
 
 ### Open Clubs
 
-* [swift-language](http://stackoverflow.com/questions/tagged/swift-language) in [Stackoverflow](http://stackoverflow.com/)
+* [swift-language](http://stackoverflow.com/questions/tagged/swift-language) In [StackOverflow](http://stackoverflow.com/)
 
 ### Other languages
 

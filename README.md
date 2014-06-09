@@ -29,6 +29,7 @@ Write the code. Change the world.
 ### 开放社区
 
 * [swift-language](http://stackoverflow.com/questions/tagged/swift-language) in [Stackoverflow](http://stackoverflow.com/)
+* [#swift](http://segmentfault.com/t/swift) in [segmentfault](http://segmentfault.com)
 * [swift-china.org](http://swift-china.org/)
 * [swift.sh](http://swift.sh/)
 * [Let's Swift](http://letsswift.com/)

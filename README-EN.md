@@ -9,6 +9,7 @@ Write the code. Change the world.
 * [Welcome to Swift](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/LandingPage/index.html)
 * [Swift Cheat Sheet](https://github.com/grant/swift-cheat-sheet) By [grant](https://github.com/grant)
 * [The Swift Programming Language](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
+* [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/index.html#//apple_ref/doc/uid/TP40014216)
 
 
 ### Posts, Tutorials, Samples

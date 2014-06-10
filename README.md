@@ -17,10 +17,15 @@ Write the code. Change the world.
 * [Welcome to Swift 中文版](https://github.com/CocoaChina-editors/Welcome-to-Swift) By [CocoaChina-editors](https://github.com/CocoaChina-editors/)
   - [The Swift Programming Language中文手册](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/TheSwiftProgrammingLanguage中文手册.md)
   - [Using Swift with Cocoa and Objective-C中文手册](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/UsingSwiftwithCocoaandObjective-C中文手册.md)
-* [苹果新贵 Swift 之前世今生](http://weibo.com/p/1001603720039017670032) By [池建强](http://weibo.com/idreamland)
 
 
 ### 文章、教程、示例
+
+#### 文章
+
+* [苹果新贵 Swift 之前世今生](http://weibo.com/p/1001603720039017670032) By [池建强](http://weibo.com/idreamland)
+* [行走于 Swift 的世界中](http://onevcat.com/2014/06/walk-in-swift/) By [onevcat](http://weibo.com/onevcat)
+
 
 * [learnswift.tips](http://learnswift.tips/)
 * [sososwift.com](http://www.sososwift.com/)

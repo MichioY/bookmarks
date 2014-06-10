@@ -21,12 +21,6 @@ Write the code. Change the world.
 
 ### 文章、教程、示例
 
-#### 文章
-
-* [苹果新贵 Swift 之前世今生](http://weibo.com/p/1001603720039017670032) By [池建强](http://weibo.com/idreamland)
-* [行走于 Swift 的世界中](http://onevcat.com/2014/06/walk-in-swift/) By [onevcat](http://weibo.com/onevcat)
-
-
 * [learnswift.tips](http://learnswift.tips/)
 * [sososwift.com](http://www.sososwift.com/)
 * [learnswift.io](http://www.learnswift.io/)
@@ -35,6 +29,11 @@ Write the code. Change the world.
 * [swift-programming](https://medium.com/swift-programming/) On [Medium](https://medium.com/)
 * [SwiftV课堂](http://www.swiftv.cn/school)
 * [Apple Swift语言基础教程](http://www.jikexueyuan.com/course/92.html) By [极客学院](http://www.jikexueyuan.com/)
+
+#### 文章
+
+* [苹果新贵 Swift 之前世今生](http://weibo.com/p/1001603720039017670032) By [池建强](http://weibo.com/idreamland)
+* [行走于 Swift 的世界中](http://onevcat.com/2014/06/walk-in-swift/) By [onevcat](http://weibo.com/onevcat)
 
 
 ### 开放社区

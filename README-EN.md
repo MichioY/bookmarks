@@ -23,7 +23,7 @@ Write the code. Change the world.
 
 #### Posts
 
-* [SWIFT IS A LOT LIKE SCALA](https://leverich.github.io/swiftislikescala/) By [leverich](https://github.com/leverich)
+* [Swift is a lot like Scala](https://leverich.github.io/swiftislikescala/) By [leverich](https://github.com/leverich)
 
 
 ### Open Clubs

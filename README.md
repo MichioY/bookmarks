@@ -34,6 +34,7 @@ Write the code. Change the world.
 
 * [苹果新贵 Swift 之前世今生](http://weibo.com/p/1001603720039017670032) By [池建强](http://weibo.com/idreamland)
 * [行走于 Swift 的世界中](http://onevcat.com/2014/06/walk-in-swift/) By [onevcat](http://weibo.com/onevcat)
+* [Swift is a lot like Scala](https://leverich.github.io/swiftislikescala/) By [leverich](https://github.com/leverich)
 
 
 ### 开放社区

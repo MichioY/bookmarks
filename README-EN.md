@@ -31,6 +31,7 @@ Write the code. Change the world.
 ### Open Clubs
 
 * [swift-language](http://stackoverflow.com/questions/tagged/swift-language) On [StackOverflow](http://stackoverflow.com/)
+* [/r/swift](http://www.reddit.com/r/swift/) On [Reddit](http://www.reddit.com/)
 * [Swiftist](http://swiftist.org)
 
 

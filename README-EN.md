@@ -24,6 +24,7 @@ Write the code. Change the world.
 #### Posts
 
 * [Swift is a lot like Scala](https://leverich.github.io/swiftislikescala/) By [leverich](https://github.com/leverich)
+* [Writing simple syntax extensions in swift](http://appventure.me/2014/06/08/writing-simple-syntax-extensions-in-swift/) By [terhechte](http://appventure.me)
 
 
 ### Open Clubs

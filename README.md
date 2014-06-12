@@ -41,6 +41,7 @@ Write the code. Change the world.
 ### 开放社区
 
 * [swift-language](http://stackoverflow.com/questions/tagged/swift-language) On [StackOverflow](http://stackoverflow.com/)
+* [/r/swift](http://www.reddit.com/r/swift/) On [Reddit](http://www.reddit.com/)
 * [#swift](http://segmentfault.com/t/swift) On [segmentfault](http://segmentfault.com)
 * [swift-china.org](http://swift-china.org/)
 * [swift.sh](http://swift.sh/)

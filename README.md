@@ -12,7 +12,7 @@ Write the code. Change the world.
 * [Learn Swift in Y minutes](http://learnxinyminutes.com/docs/zh-cn/swift-cn/)
 * [Swift语言介绍](http://swiftlang.com.cn/)
 * [来自苹果的编程语言——Swift简介](http://zh.lucida.me/blog/an-introduction-to-swift/) By [lucida](http://www.weibo.com/pegong/)
-* [Apple 官方 Swift 教程](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/) By [numbbbbb](https://github.com/numbbbbb)
+* [The Swift Programming Language 中文版](http://www.swiftguide.cn) By [Swift中文翻译组](http://weibo.com/swiftguide)
 * [Swift 语言概览](https://blog.avoscloud.com/1224/) By [hjiang](https://blog.avoscloud.com/author/hjiang/)
 * [Welcome to Swift 中文版](https://github.com/CocoaChina-editors/Welcome-to-Swift) By [CocoaChina-editors](https://github.com/CocoaChina-editors/)
   - [The Swift Programming Language中文手册](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/TheSwiftProgrammingLanguage中文手册.md)

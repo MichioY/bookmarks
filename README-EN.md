@@ -20,6 +20,7 @@ Write the code. Change the world.
 * [We ❤ Swift](http://www.weheartswift.com/)
 * [Developing iOS Apps Using Swift Tutorial](http://jamesonquave.com/blog/developing-ios-apps-using-swift-tutorial/)
 * [swift-programming](https://medium.com/swift-programming/) On [Medium](https://medium.com/)
+* [Terrible Swift Ideas](http://terribleswiftideas.tumblr.com)
 
 #### Posts
 

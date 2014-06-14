@@ -63,6 +63,10 @@ Write the code. Change the world.
 
 * [SwiftDevs](https://www.youtube.com/user/SwiftDevs)
 
+#### Google+
+
+* [Swift Programming Language](https://plus.google.com/communities/113458166730005193635)
+
 
 ### 观点
 

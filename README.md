@@ -28,6 +28,7 @@ Write the code. Change the world.
 * [Developing iOS Apps Using Swift Tutorial](http://jamesonquave.com/blog/developing-ios-apps-using-swift-tutorial/)
 * [swift-programming](https://medium.com/swift-programming/) On [Medium](https://medium.com/)
 * [Terrible Swift Ideas](http://terribleswiftideas.tumblr.com)
+* [Swift Dev Weekly](http://swiftdev.tips)
 * [SwiftV课堂](http://www.swiftv.cn/school)
 * [Apple Swift语言基础教程](http://www.jikexueyuan.com/course/92.html) By [极客学院](http://www.jikexueyuan.com/)
 

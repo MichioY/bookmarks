@@ -29,6 +29,8 @@ Write the code. Change the world.
 * [swift-programming](https://medium.com/swift-programming/) On [Medium](https://medium.com/)
 * [Terrible Swift Ideas](http://terribleswiftideas.tumblr.com)
 * [Swift Dev Weekly](http://swiftdev.tips)
+* [objc.io](http://objc.io)
+* [objc中国](http://objccn.io)
 * [SwiftV课堂](http://www.swiftv.cn/school)
 * [Apple Swift语言基础教程](http://www.jikexueyuan.com/course/92.html) By [极客学院](http://www.jikexueyuan.com/)
 

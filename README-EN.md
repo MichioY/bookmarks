@@ -30,6 +30,7 @@ Write the code. Change the world.
 * [Techniques to write DSLs in Swift](https://speakerdeck.com/luisobo/techniques-to-write-dsls-in-swift) By [Luis Solano](https://github.com/luisobo)
 * [Swift Initializers](http://ashfurrow.com/blog/swift-initializers)
 * [A swift introduction to Swift](http://www.slideshare.net/giordano/a-swift-introduction-to-swift?qid=df16580b-6d8b-4083-b9c8-b9879e867356&v=qf1&b=&from_search=1)
+* [Smashing Swift](http://nomothetis.svbtle.com/smashing-swift) By [@nomothetis](https://twitter.com/nomothetis)
 
 
 ### Open Clubs
